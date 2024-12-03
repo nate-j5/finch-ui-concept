@@ -1,11 +1,10 @@
 ## Finch Concept Project
 
-**Overview:**  
 This app allows users view employment data by city. 
 
 The data is not vetted for accuracy but illustrates a way Finch could be used in the future.
 
-Link: [Live Demo](https://render.com/)  
+Link: [Live Demo](https://finch-ui-concept.onrender.com/)  
 
 > Note: Please allow up to 30 seconds for the site to load - it's hosted for free. 
 
@@ -23,8 +22,6 @@ Click on a city to view employment data.
 View information on the city's largest employers.
 
 <img src="public/assets/ss2.png" alt="screenshot 1" width="1000" style="margin: 20px 0;" />
----
-
 
 ## Housekeeping
 
