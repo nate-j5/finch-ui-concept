@@ -1,0 +1,179 @@
+[
+  {
+    "city": "San Francisco",
+    "state": "California",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "population": "873,965",
+    "industries": [
+      { "name": "Technology", "percentage": 35 },
+      { "name": "Finance", "percentage": 25 },
+      { "name": "Tourism", "percentage": 20 },
+      { "name": "Healthcare", "percentage": 20 }
+    ],
+    "largest_employers": [
+      {
+        "rank": 1,
+        "name": "Wells Fargo",
+        "industry": "Finance",
+        "employees": "250,000",
+        "accuracy_estimate": 94,
+        "payment_processor": "Square",
+        "payroll_system": "Workday",
+        "401k_offered": "Fidelity",
+        "healthcare": "UnitedHealthcare"
+      },
+      {
+        "rank": 2,
+        "name": "Google",
+        "industry": "Technology",
+        "employees": "150,000",
+        "accuracy_estimate": 97,
+        "payment_processor": "Stripe",
+        "payroll_system": "ADP",
+        "401k_offered": "Fidelity",
+        "healthcare": "Blue Cross Blue Shield"
+      },
+      {
+        "rank": 3,
+        "name": "Salesforce",
+        "industry": "Technology",
+        "employees": "70,000",
+        "accuracy_estimate": 95,
+        "payment_processor": "Stripe",
+        "payroll_system": "ADP",
+        "401k_offered": "Vanguard",
+        "healthcare": "Blue Cross Blue Shield"
+      },
+      {
+        "rank": 4,
+        "name": "UCSF Health",
+        "industry": "Healthcare",
+        "employees": "15,000",
+        "accuracy_estimate": 92,
+        "payment_processor": "PayPal",
+        "payroll_system": "Gusto",
+        "401k_offered": "Charles Schwab",
+        "healthcare": "Cigna"
+      }
+    ]
+  },
+  {
+    "city": "New York",
+    "state": "New York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "population": "8,336,817",
+    "industries": [
+      { "name": "Finance", "percentage": 35 },
+      { "name": "Media", "percentage": 30 },
+      { "name": "Technology", "percentage": 20 },
+      { "name": "Healthcare", "percentage": 15 }
+    ],
+    "largest_employers": [
+      {
+        "rank": 1,
+        "name": "IBM",
+        "industry": "Technology",
+        "employees": "350,000",
+        "accuracy_estimate": 95,
+        "payment_processor": "Stripe",
+        "payroll_system": "Workday",
+        "401k_offered": "Fidelity",
+        "healthcare": "Blue Cross Blue Shield"
+      },
+      {
+        "rank": 2,
+        "name": "Goldman Sachs",
+        "industry": "Finance",
+        "employees": "40,000",
+        "accuracy_estimate": 96,
+        "payment_processor": "Stripe",
+        "payroll_system": "Workday",
+        "401k_offered": "Vanguard",
+        "healthcare": "Blue Cross Blue Shield"
+      },
+      {
+        "rank": 3,
+        "name": "NY Presbyterian Hospital",
+        "industry": "Healthcare",
+        "employees": "38,000",
+        "accuracy_estimate": 94,
+        "payment_processor": "PayPal",
+        "payroll_system": "Gusto",
+        "401k_offered": "Fidelity",
+        "healthcare": "Cigna"
+      },
+      {
+        "rank": 4,
+        "name": "Bloomberg LP",
+        "industry": "Media",
+        "employees": "20,000",
+        "accuracy_estimate": 93,
+        "payment_processor": "Square",
+        "payroll_system": "ADP",
+        "401k_offered": "Principal",
+        "healthcare": "UnitedHealthcare"
+      }
+    ]
+  },
+  {
+    "city": "Austin",
+    "state": "Texas",
+    "latitude": 30.2672,
+    "longitude": -97.7431,
+    "population": "964,254",
+    "industries": [
+      { "name": "Technology", "percentage": 40 },
+      { "name": "Music", "percentage": 20 },
+      { "name": "Education", "percentage": 20 },
+      { "name": "Healthcare", "percentage": 20 }
+    ],
+    "largest_employers": [
+      {
+        "rank": 1,
+        "name": "Dell Technologies",
+        "industry": "Technology",
+        "employees": "39,000",
+        "accuracy_estimate": 96,
+        "payment_processor": "Stripe",
+        "payroll_system": "Workday",
+        "401k_offered": "Vanguard",
+        "healthcare": "Blue Cross Blue Shield"
+      },
+      {
+        "rank": 2,
+        "name": "University of Texas",
+        "industry": "Education",
+        "employees": "24,000",
+        "accuracy_estimate": 92,
+        "payment_processor": "PayPal",
+        "payroll_system": "Gusto",
+        "401k_offered": "Fidelity",
+        "healthcare": "Cigna"
+      },
+      {
+        "rank": 3,
+        "name": "Tesla",
+        "industry": "Technology",
+        "employees": "22,777",
+        "accuracy_estimate": 97,
+        "payment_processor": "Stripe",
+        "payroll_system": "Workday",
+        "401k_offered": "Vanguard",
+        "healthcare": "Blue Cross Blue Shield"
+      },
+      {
+        "rank": 4,
+        "name": "Ascension Seton",
+        "industry": "Healthcare",
+        "employees": "15,000",
+        "accuracy_estimate": 90,
+        "payment_processor": "Square",
+        "payroll_system": "ADP",
+        "401k_offered": "Principal",
+        "healthcare": "UnitedHealthcare"
+      }
+    ]
+  }
+]
